@@ -198,7 +198,7 @@ class Navaneth:
 | 🎓 Degree | 🏫 Institution | 📅 Year | 📊 Score |
 |-----------|----------------|---------|---------|
 | B.E. Computer Science & Engineering | Bannari Amman Institute of Technology, Sathyamangalam | 2024 – Present | 7.93 CGPA |
-| Higher Secondary (HSC) & SSLC | SKV Vidhyaashram | Completed | 2024 |
+| Higher Secondary (HSC) & SSLC | SKV Vidhyaashram | Completed | 80% |
 
 </div>
 
