@@ -171,7 +171,7 @@ class Navaneth:
 
 | 🏆 | Achievement | Details |
 |----|-------------|---------|
-| 💻 | **LeetCode Problem Solver** | Solved **50+ problems** and actively continuing |
+| 💻 | **LeetCode Problem Solver** | Solved **150+ problems** and actively continuing |
 | ☁️ | **Oracle Cloud Infrastructure Certified** | Official OCI Certification from Oracle |
 | 📜 | **NPTEL Certified — Entrepreneurship** | Completed NPTEL online course with certification |
 | 🧠 | **Competitive Problem Solver** | Strong interest in logical thinking & algorithmic challenges |
@@ -188,7 +188,7 @@ class Navaneth:
 | 🎓 Degree | 🏫 Institution | 📅 Year | 📊 Score |
 |-----------|----------------|---------|---------|
 | B.E. Computer Science & Engineering | Bannari Amman Institute of Technology, Sathyamangalam | 2024 – Present | 7.93 CGPA |
-| Higher Secondary (HSC) & SSLC | SKV Vidhyaashram | Completed | — |
+| Higher Secondary (HSC) & SSLC | SKV Vidhyaashram | Completed | 2024 |
 
 </div>
 
