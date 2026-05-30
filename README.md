@@ -1,8 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Navaneth%20N%20D&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CS%20Engineering%20Student%20%7C%20Full-Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
-  <a href="https://komarev.com/ghpvc/?username=navaneth-nd&color=70A5FD&style=flat-square&label=Profile+Views">
-    <img src="https://komarev.com/ghpvc/?username=navaneth-nd&color=70A5FD&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  <a href="https://komarev.com/ghpvc/?username=NAVANETH7&color=70A5FD&style=flat-square&label=Profile+Views">
+    <img src="https://komarev.com/ghpvc/?username=NAVANETH7&color=70A5FD&style=flat-square&label=Profile+Views" alt="Profile Views"/>
   </a>
   <img src="https://img.shields.io/badge/Open%20To-Internships-38BDAE?style=flat-square&logo=handshake&logoColor=white" alt="Open to Internships"/>
   <img src="https://img.shields.io/badge/Based%20In-Tamil%20Nadu%2C%20India-BF91F3?style=flat-square&logo=google-maps&logoColor=white" alt="Location"/>
@@ -93,11 +93,11 @@ class Navaneth:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/navaneth-nd">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=navaneth-nd&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="GitHub Stats"/>
+  <a href="https://github.com/NAVANETH7">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=NAVANETH7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="GitHub Stats"/>
   </a>
-  <a href="https://github.com/navaneth-nd">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navaneth-nd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
+  <a href="https://github.com/NAVANETH7">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAVANETH7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
   </a>
 </div>
 
@@ -106,7 +106,7 @@ class Navaneth:
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=navaneth-nd&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=NAVANETH7&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -114,7 +114,7 @@ class Navaneth:
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=navaneth-nd&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NAVANETH7&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
 </div>
 
 ---
@@ -122,7 +122,7 @@ class Navaneth:
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=navaneth-nd&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=NAVANETH7&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
 </div>
 
 ---
@@ -153,7 +153,7 @@ class Navaneth:
 
 | Project | Stack | Highlights |
 |---------|-------|------------|
-| 🗺️ **[Geo Attendance System](https://github.com/navaneth-nd)** | Next.js · Google Maps API · Vercel | Real-time geolocation tracking; geofencing to prevent proxy attendance; responsive UI for web & mobile |
+| 🗺️ **[Geo Attendance System](https://github.com/NAVANETH7)** | Next.js · Google Maps API · Vercel | Real-time geolocation tracking; geofencing to prevent proxy attendance; responsive UI for web & mobile |
 | 🔧 **MERN Stack REST API** *(In Progress)* | Node.js · Express.js · MongoDB · Render | Full CRUD API with JWT auth, deployed on Render cloud platform |
 | ⚛️ **React Component Library** *(In Progress)* | React · CSS Modules · Vercel | Reusable UI components with live preview and responsive design |
 
@@ -211,13 +211,13 @@ class Navaneth:
   <a href="mailto:navanethnd@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/navaneth-nd">
+  <a href="https://www.linkedin.com/in/navaneth-n-d">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/navaneth-nd">
+  <a href="https://github.com/NAVANETH7">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://leetcode.com/navaneth-nd">
+  <a href="https://leetcode.com/NAVANETH7">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 </div>
@@ -228,19 +228,4 @@ class Navaneth:
   <i>⚡ "Build. Break. Learn. Repeat." — Open to internship opportunities in Full-Stack / Web Development</i>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>## Hi there 👋
-
-<!--
-**NAVANETH7/NAVANETH7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
