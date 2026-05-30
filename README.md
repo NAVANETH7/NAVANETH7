@@ -90,21 +90,21 @@ class Navaneth:
 
 ---
 
-## 📊 Contribution Graph
+## 📊 GitHub Activity
 
 <div align="center">
-
-<!-- Real-style GitHub contribution calendar -->
-<img src="https://ghchart.rshah.org/70a5fd/NAVANETH7" alt="NAVANETH7's GitHub Contribution Chart" width="100%"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NAVANETH7&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&custom_title=Navaneth%27s%20Contribution%20Graph" alt="Contribution Activity Graph" width="100%"/>
 </div>
+
+<br/>
 
 <div align="center">
-
-<!-- Activity graph with commit line -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NAVANETH7&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&custom_title=NAVANETH7%27s%20Contribution%20Graph" alt="Contribution Activity Graph" width="100%"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=NAVANETH7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="GitHub Stats" height="170"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAVANETH7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages" height="170"/>
 </div>
+
+<br/>
 
 ### 🐍 Contribution Snake
 <div align="center">
@@ -113,11 +113,6 @@ class Navaneth:
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NAVANETH7/NAVANETH7/output/github-contribution-grid-snake.svg"/>
     <img alt="Snake animation" src="https://raw.githubusercontent.com/NAVANETH7/NAVANETH7/output/github-contribution-grid-snake-dark.svg" width="100%"/>
   </picture>
-</div>
-
-### 🗣️ Top Languages
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAVANETH7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
 </div>
 
 ---
