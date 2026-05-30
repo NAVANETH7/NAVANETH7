@@ -93,6 +93,21 @@ class Navaneth:
 ## 📊 Contribution Graph
 
 <div align="center">
+
+<!-- Real-style GitHub contribution calendar -->
+<img src="https://ghchart.rshah.org/70a5fd/NAVANETH7" alt="NAVANETH7's GitHub Contribution Chart" width="100%"/>
+
+</div>
+
+<div align="center">
+
+<!-- Activity graph with commit line -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NAVANETH7&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&custom_title=NAVANETH7%27s%20Contribution%20Graph" alt="Contribution Activity Graph" width="100%"/>
+
+</div>
+
+### 🐍 Contribution Snake
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NAVANETH7/NAVANETH7/output/github-contribution-grid-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NAVANETH7/NAVANETH7/output/github-contribution-grid-snake.svg"/>
@@ -133,7 +148,7 @@ class Navaneth:
 
 ## 💼 Work Experience
 
-> *Currently a 2nd-year student actively seeking internship opportunities in software/web development.*
+> *Currently a 3rd-year student actively seeking internship opportunities in software/web development.*
 
 <details>
 <summary>🎓 <strong>Bannari Amman Institute of Technology</strong> — CS Engineering Student &nbsp;|&nbsp; 2024 – Present &nbsp;|&nbsp; Sathyamangalam, Tamil Nadu</summary>
